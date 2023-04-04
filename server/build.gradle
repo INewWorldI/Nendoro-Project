@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'dev.nworld'
-version = 'Nendoro-0.0.1-Relese' // 버전 관리
+version = '0.0.1-Relese' // 버전 관리
 sourceCompatibility = '17'
 
 configurations {
