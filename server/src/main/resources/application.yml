@@ -14,9 +14,6 @@ spring:
 #      max-file-size: 3MB # 최대 파일 사이즈
 #      max-request-size: 10MB # 보내는 파일의 전체 합의 크기
 
-server:
-  port: 8080
-
 logging:
   level:
     org.hibernate:
