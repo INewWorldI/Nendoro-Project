@@ -8,11 +8,6 @@ function App() {
       ).then((res) => res.json());
       console.log(res); // 500 개의 데이터 확인 가능
     };
-  
-    // Mount 시점에 수행
-    useEffect(() => {
-      getData();
-    }, []);
 }
 
 export default App;
